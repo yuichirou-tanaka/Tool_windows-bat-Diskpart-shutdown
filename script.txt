@@ -1,0 +1,7 @@
+select disk 0
+clean all
+select disk 1
+clean all
+
+
+
